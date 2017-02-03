@@ -1,0 +1,4 @@
+*http://your_downlaod_link/Versin_name_folder/
+#ORIGINAL=发包专用
+demo000000001=官网下载
+demo000000002=APP更新
